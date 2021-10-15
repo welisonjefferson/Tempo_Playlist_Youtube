@@ -1,5 +1,5 @@
 # Tempo_Playlist_Youtube
-Abre a Playlist e cole no console. 
+Abre a Playlist do youtube e cole no console. 
 
 (function() {
     var playlist = document.querySelectorAll("#contents"),
